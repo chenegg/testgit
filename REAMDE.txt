@@ -1,2 +1,5 @@
-rebase2
-remote2
+原本 git diff 顯示的方式是比較快速的，
+
+因此又想將 git diff 改回原本的樣子，
+
+改用 git difftool 呼叫 Beyond Compare～
