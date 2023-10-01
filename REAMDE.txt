@@ -1,5 +1,7 @@
-åŸæœ¬ git diff é¡¯ç¤ºçš„æ–¹å¼æ˜¯æ¯”è¼ƒå¿«é€Ÿçš„ï¼Œ
+­ì¥» git diff Åã¥Üªº¤è¦¡¬O¤ñ¸û§Ö³tªº¡A
 
-å› æ­¤åˆæƒ³å°‡ git diff æ”¹å›åŸæœ¬çš„æ¨£å­ï¼Œ
+¦]¦¹¤S·Q±N git diff §ï¦^­ì¥»ªº¼Ë¤l¡A
 
-æ”¹ç”¨ git difftool å‘¼å« Beyond Compareï½
+§ï¥Î git difftool ©I¥s Beyond Compare¡ã
+
+-------------------------------------
